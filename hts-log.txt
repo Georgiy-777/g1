@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Jul 2024 04:41:55 at https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml -O1 "D:\hgj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:42:29	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml)
+04:42:29	Error: 	"Not Found" (404) at link https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/g1.globo.com/busca (from https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml)
+04:42:29	Error: 	"Not Found" (404) at link https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/t/ (from https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml)
+04:42:40	Error: 	"Not Found" (404) at link https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/;path=/ (from https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 85 links scanned, 80 files written (5914030 bytes overall) [2108031 bytes received at 46845 bytes/sec], 5051710 bytes transferred using HTTP compression in 55 files, ratio 22%, 2.6 requests per connection
+(4 errors, 0 warnings, 0 messages)
