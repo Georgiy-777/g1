@@ -1,4 +1,4 @@
 
 # g1
 
-https://www.loom.com/share/4353eb66ab0d4ef19bf7fcb5b000359a?sid=cc0ca3b4-5f58-495a-9bd1-0c75ab4afc86
+https://www.loom.com/share/2b5581a27ef04476a5b56228c045e75a?sid=1d4f78ea-d2bc-45ad-a58b-fb9c7463b59d
